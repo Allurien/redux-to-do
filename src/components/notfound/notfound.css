@@ -1,0 +1,9 @@
+.not-found{
+    display: flex;
+    height: 100vh;
+    /* max-width: 100vw; */
+}
+.not-found-content{
+    margin: auto;
+    text-align: center;
+}
